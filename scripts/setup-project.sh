@@ -4,24 +4,24 @@ cd TemperatureMonitor
 
 ### Pull Input Web
 git clone git@github.com:Skelly-Co/Temperature-Monitor-Input-Web.git InputWeb
-cd API
+cd InputWeb
 git checkout development
 cd ..
 
 ### Pull Output Web
 git clone git@github.com:Skelly-Co/Temperature-Monitor-Output-Web.git OutputWeb
-cd API
+cd OutputWeb
 git checkout development
 cd ..
 
 ### Pull Input API
 git clone git@github.com:Skelly-Co/Temperature-Monitor-Input-API.git InputAPI
-cd API
+cd InputAPI
 git checkout development
 cd ..
 
 ### Pull Output API
 git clone git@github.com:Skelly-Co/Temperature-Monitor-Output-API.git OutputAPI
-cd API
+cd OutputAPI
 git checkout development
 cd ..
